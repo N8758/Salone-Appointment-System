@@ -1,0 +1,1 @@
+const userRegister="http://localhost:8000/salon/registeruser";
